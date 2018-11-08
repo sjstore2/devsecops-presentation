@@ -1,7 +1,7 @@
 @title[$whoami]
 
 @snap[north-west bio-name]
-@size[1.5em]Scott Storey
+Scott Storey
 @snapend
 
 

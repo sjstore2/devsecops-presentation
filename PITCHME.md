@@ -1,13 +1,8 @@
 ---
 @title[Introduction]
 
-@snap[west headline]
-DevSecOps
-@snapend
-
-@snap[south-west byline]
-Scott Storey
-@snapend
+###DevSecOps<br><br>
+#####Scott Storey<br>
 
 ---?include=template/md/about/PITCHME.md
 
