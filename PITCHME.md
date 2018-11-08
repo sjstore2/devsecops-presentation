@@ -29,10 +29,8 @@ By a show of hands how do you identify:
 
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
-
-@ul[](false)
-@fa[laptop]: [scottstorey.co.uk](https://www.scottstorey.co.uk)
-@fa[twitter]: [@scottstorey](https://www.scottstorey.co.uk)
-@fa[github]: [sjstore2](https://github.com/sjstore)
-@fa[envelope]: [me@scottstorey.co.uk](mailto:me@scottstorey.co.uk)
-@ulend
+<br><br>
+@fa[laptop]: [scottstorey.co.uk](https://www.scottstorey.co.uk)<br>
+@fa[twitter]: [@scottstorey](https://www.scottstorey.co.uk)<br>
+@fa[github]: [sjstore2](https://github.com/sjstore)<br>
+@fa[envelope]: [me@scottstorey.co.uk](mailto:me@scottstorey.co.uk)<br>
