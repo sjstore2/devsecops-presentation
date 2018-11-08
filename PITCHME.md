@@ -42,6 +42,26 @@ By a show of hands how do you identify:
 ### Wall of Confusion 2.0
 ![Wall of Confusion 2.0](template/img/wallofconfusion2.png)
 
+---?color=#0054fc
+
+### Why are we making the same mistakes?
+
+---
+### Historically...
+@ul[]
+- Security aligns most closely with ops
+- Security has never had a settled place in an organisation
+- Seen as the "Work Prevention Unit"
+- Acted as a backstop to prevent "bad" work being released
+- People tried to avoid security (and could!)
+@ulend
+
+---
+### ...today
+@ul[]
+- You can't avoid security
+- This has forced interaction
+
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
 <br>
