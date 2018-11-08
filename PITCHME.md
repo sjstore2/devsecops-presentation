@@ -133,6 +133,8 @@ By a show of hands how do you identify:
 
 ---?color=#00297c
 ### DevSecOps Reference Architecture
+
+---
 ![Reference Architecture](/assets/img/referencearchitecture.png)
 
 ---?color=#00297c
