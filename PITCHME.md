@@ -144,6 +144,16 @@ By a show of hands how do you identify:
 ---
 ### DevSecOps Studio
 ![DevSecOps Studio](https://raw.githubusercontent.com/teacheraio/DevSecOps-Studio/master/images/devsecops-tools.png)
+https://github.com/teacheraio/DevSecOps-Studio
+
+---
+### Awesome DevSecOps
+@ul[squares](false)
+- Part of the awesome series on GitHub
+- If you haven't seen the awesome series before, check it out!
+@ulend
+
+https://github.com/devsecops/awesome-devsecops
 
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
