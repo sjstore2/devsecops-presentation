@@ -1,17 +1,6 @@
----
-### Questions?
----
-@title[Get In Touch]
+### @fa[star] Thank you. Questions? @fa[star]
 
-@snap[midpoint contact-links]
-@css[contact-name](Scott Storey)<br>
-<a href="https://twitter.com/scottstorey">
-@fa[twitter-square pad-right-icon]@css[twitter-handle](@scottstorey)
-</a><br>
-<a href="https://github.com/gitpitch/sjstore2">
-@fa[github-square pad-right-icon]@css[git-handle](sjstore2)
-</a><br>
-<a href="mailto: me@scottstorey.co.uk">
-@fa[envelope-o pad-right-icon]@css[contact-email](me@scottstorey.co.uk)
-</a>
-@snapend
+@fa[laptop]: [scottstorey.co.uk](https://www.scottstorey.co.uk)
+@fa[twitter]: [@scottstorey](https://www.scottstorey.co.uk)
+@fa[github]: [sjstore2](https://github.com/sjstore)
+@fa[envelope]: [me@scottstorey.co.uk](mailto:me@scottstorey.co.uk)
