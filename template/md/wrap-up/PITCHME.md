@@ -3,7 +3,7 @@
 ---
 @title[Questions?]
 
-@snap[east span-50]
+@snap[midpoint span-50]
 ![QUESTIONS-4](template/img/questions-4.png)
 @snapend
 ---
@@ -20,8 +20,4 @@
 <a href="mailto: me@scottstorey.co.uk">
 @fa[envelope-o pad-right-icon]@css[contact-email](me@scottstorey.co.uk)
 </a>
-@snapend
-
-@snap[west span-50]
-![CONTACT-2](template/img/contact-2.png)
 @snapend

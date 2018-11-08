@@ -11,6 +11,11 @@ Scott Storey
 
 ---?include=template/md/about/PITCHME.md
 
+
+
+
+---?include=template/md/wrap-up/PITCHME.md
+
 ---
 @title[Tip! Fullscreen]
 
@@ -37,9 +42,7 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/announcement/PITCHME.md
 
----?include=template/md/about/PITCHME.md
 
----?include=template/md/wrap-up/PITCHME.md
 
 ---
 @title[The Template Docs]
