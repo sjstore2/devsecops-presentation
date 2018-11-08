@@ -26,7 +26,7 @@ By a show of hands how do you identify:
 - Anything else?
 @ulend
 
----?color=#0054fc
+---?color=#00297c
 
 ### Reminder of the dark ages
 
@@ -34,7 +34,7 @@ By a show of hands how do you identify:
 ### Wall of Confusion 1.0
 ![Wall of Confusion 1.0](assets/img/wallofconfusion1.png)
 
----?color=#0054fc
+---?color=#00297c
 
 ### Player 3 enters the game
 
@@ -42,7 +42,7 @@ By a show of hands how do you identify:
 ### Wall of Confusion 2.0
 ![Wall of Confusion 2.0](assets/img/wallofconfusion2.png)
 
----?color=#0054fc
+---?color=#00297c
 
 ### Why are we making the same mistakes?
 
@@ -61,6 +61,12 @@ By a show of hands how do you identify:
 @ul[]
 - You can't avoid security
 - This has forced interaction
+
+---?color=#00297c
+
+### DevSecOps to the rescue!
+
+---
 
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
