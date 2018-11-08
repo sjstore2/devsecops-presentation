@@ -50,8 +50,8 @@ By a show of hands how do you identify:
 ### Historically...
 @ul[squares]
 - Security aligned most closely with ops
-- Security has never had a settled place in an organisation
-- Acted as a backstop to prevent "bad" work being released
+- Security has never had a settled place
+- Security was a backstop to prevent "bad" releases
 - People tried to avoid security (and could!)
 @ulend
 
@@ -60,8 +60,8 @@ By a show of hands how do you identify:
 @ul[squares]
 - You can't avoid security
 - Interaction has been forced
-- Lack of understanding and communication on both sides
-- Security requirements are becoming more engrained in law
+- Lack of understanding and communication
+- Security requirements are  more engrained in law
 - Security abusing its position
 
 ---?color=#00297c
