@@ -1,8 +1,8 @@
 ---
 @title[Introduction]
 
-###DevSecOps<br><br>
-#####Scott Storey<br>
+### DevSecOps<br><br>
+##### Scott Storey<br>
 
 ---?include=template/md/about/PITCHME.md
 
