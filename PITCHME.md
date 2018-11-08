@@ -26,17 +26,17 @@ By a show of hands how do you identify:
 - Anything else?
 @ulend
 
----?color=#fc8a00
+---?color=#0054fc
 
-### Reminder of the problem devops should resolve 
+### Reminder of the dark ages
 
 ---
 ### Wall of Confusion 1.0
 ![Wall of Confusion 1.0](template/img/wallofconfusion1.png)
 
----?color=#fc8a00
+---?color=#0054fc
 
-### Player 3 enters the game 
+### Player 3 enters the game
 
 ---
 ### Wall of Confusion 2.0
