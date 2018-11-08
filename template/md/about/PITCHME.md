@@ -5,7 +5,7 @@
 @snapend
 
 
-@snap[west about-bio-details]
+@snap[west list-content-verbose span-100]
 @ul [](false)
 * Security Architect @ Egress Software Technologies
 * Associate Lecturer @ Sheffield Hallam University in Cyber Security
@@ -13,5 +13,6 @@
 <br><br>
 * Research Focus in Sociotechnical Security
 <br><br>
+@ulend
 
 @snapend

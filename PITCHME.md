@@ -13,9 +13,24 @@ Scott Storey
 
 ---
 @title[Who Are You?]
-:
+
+@snap[north-west]
+Who are you?
+@snapend
+
+@snap[west]
+By a show of hands how do you identify:
+@ul[]
+- Developer?
+- Operations?
+- Security?
+- DevOps?
+- Leader?
+- Student?
+@ulend
 
 ---
+
 
 
 ---?include=template/md/wrap-up/PITCHME.md
