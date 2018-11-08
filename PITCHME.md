@@ -113,6 +113,7 @@ By a show of hands how do you identify:
 ![Microsoft Threat Modelling Tool](assets/img/mtmt.png)
 
 ---
+### Threat Modelling
 @ul[squares]
 - Anybody can pick it up
 - Template threat models out the box
@@ -123,7 +124,7 @@ By a show of hands how do you identify:
 
 ---
 ### DevSecOps Studio
-![DevSecOps Studio](https://github.com/teacheraio/DevSecOps-Studio/blob/master/images/devsecops-tools.png)
+![DevSecOps Studio](https://raw.githubusercontent.com/teacheraio/DevSecOps-Studio/master/images/devsecops-tools.png)
 
 
 ---
