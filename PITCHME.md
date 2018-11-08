@@ -1,11 +1,11 @@
 ---
 @title[Introduction]
 
-@snap[west headline text-white span-70]
+@snap[west headline]
 DevSecOps
 @snapend
 
-@snap[south-west byline  text-white]
+@snap[south-west byline]
 Scott Storey
 @snapend
 
