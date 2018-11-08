@@ -1,4 +1,4 @@
----?
+---
 @title[Introduction]
 
 @snap[west headline text-white span-70]
