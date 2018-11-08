@@ -1,4 +1,4 @@
----
+---?color=#222222
 @title[Introduction]
 
 ### DevSecOps<br><br>
