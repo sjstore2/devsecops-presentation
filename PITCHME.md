@@ -32,7 +32,7 @@ By a show of hands how do you identify:
 
 ---
 ### Wall of Confusion 1.0
-![Wall of Confusion 1.0](template/img/wallofconfusion1.png)
+![Wall of Confusion 1.0](assets/img/wallofconfusion1.png)
 
 ---?color=#0054fc
 
@@ -40,7 +40,7 @@ By a show of hands how do you identify:
 
 ---
 ### Wall of Confusion 2.0
-![Wall of Confusion 2.0](template/img/wallofconfusion2.png)
+![Wall of Confusion 2.0](assets/img/wallofconfusion2.png)
 
 ---?color=#0054fc
 
