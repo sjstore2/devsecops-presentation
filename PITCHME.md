@@ -2,11 +2,11 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+DevSecOps
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+Scott Storey.
 @snapend
 
 ---
