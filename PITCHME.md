@@ -16,7 +16,7 @@ Scott Storey
 ### Who are you?
 
 By a show of hands how do you identify:
-@ul[]
+@ul[squares]
 - Developer?
 - Operations?
 - Security?
@@ -48,7 +48,7 @@ By a show of hands how do you identify:
 
 ---
 ### Historically...
-@ul[]
+@ul[squares]
 - Security aligned most closely with ops
 - Security has never had a settled place in an organisation
 - Acted as a backstop to prevent "bad" work being released
@@ -57,7 +57,7 @@ By a show of hands how do you identify:
 
 ---
 ### ...today
-@ul[]
+@ul[squares]
 - You can't avoid security
 - Interaction has been forced
 - Lack of understanding and communication on both sides
@@ -70,7 +70,7 @@ By a show of hands how do you identify:
 
 ---
 ### Security needs to change
-@ul[]
+@ul[squares]
 - Need to work with, not against
 - Need to fit how dev and ops work 
 - Need to be involved throughout the lifecycle
@@ -78,7 +78,7 @@ By a show of hands how do you identify:
 
 ---
 ### Barriers to adoption
-@ul[]
+@ul[squares]
 - Lack of skilled security professionals
 - Lack of dev and ops with security knowledge
 - Change is hard! 
