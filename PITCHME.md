@@ -1,5 +1,4 @@
 ---?color=#222222
-@title[Introduction]
 
 ### DevSecOps<br><br>
 ##### Scott Storey<br>
@@ -7,11 +6,7 @@
 ---?include=template/md/about/PITCHME.md
 
 ---
-@title[Who Are You?]
-
-@snap[north-west]
-Who are you?
-@snapend
+###Who are you?
 
 By a show of hands how do you identify:
 @ul[]
@@ -34,31 +29,3 @@ By a show of hands how do you identify:
 
 
 ---?include=template/md/wrap-up/PITCHME.md
-
----
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
----?include=template/md/absplit-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
-
