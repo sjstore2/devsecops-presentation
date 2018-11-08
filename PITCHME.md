@@ -27,9 +27,16 @@ By a show of hands how do you identify:
 - DevOps?
 - Leader?
 - Student?
+- Anything else?
 @ulend
 
----
+---?image=template/img/WallOfConfusion1.PNG&size=contain
+@title[Wall of Confusion 1.0]
+
+
+---?image=template/img/WallOfConfusion2.PNG&size=contain
+@title[Wall of Confusion 2.0]
+
 
 
 
@@ -62,14 +69,3 @@ For the best viewing experience, press F for fullscreen.
 ---?include=template/md/announcement/PITCHME.md
 
 
-
----
-@title[The Template Docs]
-
-@snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
-@snapend
-
-@snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
