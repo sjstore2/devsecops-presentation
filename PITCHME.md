@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=#c02425
 @title[Introduction]
 
 @snap[west headline text-white span-70]
@@ -11,7 +11,11 @@ Scott Storey
 
 ---?include=template/md/about/PITCHME.md
 
+---
+@title[Who Are You?]
+:
 
+---
 
 
 ---?include=template/md/wrap-up/PITCHME.md
