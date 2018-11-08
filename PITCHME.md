@@ -26,7 +26,7 @@ By a show of hands how do you identify:
 - Anything else?
 @ulend
 
----?color=#43B291
+---?color=#43B2A4
 
 ### Reminder of the dark ages
 
@@ -34,7 +34,7 @@ By a show of hands how do you identify:
 ### Wall of Confusion 1.0
 ![Wall of Confusion 1.0](assets/img/wallofconfusion1.png)
 
----?color=#60FFD0
+---?color=#43B2A4
 
 ### Player 3 enters the game
 
@@ -42,7 +42,7 @@ By a show of hands how do you identify:
 ### Wall of Confusion 2.0
 ![Wall of Confusion 2.0](assets/img/wallofconfusion2.png)
 
----?color=#99FFE6
+---?color=#43B2A4
 
 ### Why are we making the same mistakes?
 
@@ -65,7 +65,7 @@ By a show of hands how do you identify:
 - Security abusing its position
 @ulend
 
----?color=#60FFD0
+---?color=#43B2A4
 
 ### DevSecOps to the rescue!
 
@@ -86,7 +86,7 @@ By a show of hands how do you identify:
 - Change is hard! 
 @ulend
 
----?color=#60FFD0
+---?color=#43B2A4
 
 ### Moving forward in your organisation
 
@@ -131,13 +131,13 @@ By a show of hands how do you identify:
 - Vulnerability Scanning
 @ulend
 
----?color=#60FFD0
+---?color=#43B2A4
 ### DevSecOps Reference Architecture
 
 ---
 ![Reference Architecture](/assets/img/referencearchitecture.png)
 
----?color=#60FFD0
+---?color=#43B2A4
 
 ### Have a play!
 
