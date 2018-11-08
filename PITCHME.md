@@ -26,7 +26,7 @@ By a show of hands how do you identify:
 - Anything else?
 @ulend
 
----?color=#00297c
+---?color=#99FFE6
 
 ### Reminder of the dark ages
 
@@ -42,7 +42,7 @@ By a show of hands how do you identify:
 ### Wall of Confusion 2.0
 ![Wall of Confusion 2.0](assets/img/wallofconfusion2.png)
 
----?color=#00297c
+---?color=#99FFE6
 
 ### Why are we making the same mistakes?
 
@@ -65,7 +65,7 @@ By a show of hands how do you identify:
 - Security abusing its position
 @ulend
 
----?color=#00297c
+---?color=#99FFE6
 
 ### DevSecOps to the rescue!
 
@@ -86,7 +86,7 @@ By a show of hands how do you identify:
 - Change is hard! 
 @ulend
 
----?color=#00297c
+---?color=#99FFE6
 
 ### Moving forward in your organisation
 
