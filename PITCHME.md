@@ -1,4 +1,5 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---
+?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
 @snap[west headline text-white span-70]
@@ -6,13 +7,12 @@ DevSecOps
 @snapend
 
 @snap[south-west byline  text-white]
-Scott Storey.
+Scott Storey
 @snapend
 
----
-@title[Slide Markdown]
+---?include-template/md/about/PITCHME.md
 
-### Each slide in this presentation is provided as a *template*.
+
 
 <br><br>
 
@@ -31,7 +31,7 @@ Scott Storey.
 For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
----?include=template/md/split-screen/PITCHME.md
+---?include=template/md/absplit-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
 
