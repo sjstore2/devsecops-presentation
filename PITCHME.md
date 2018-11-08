@@ -27,5 +27,14 @@ By a show of hands how do you identify:
 ### Wall of Confusion 2.0
 ![Wall of Confusion 2.0](template/img/wallofconfusion2.png)
 
+---
+### @fa[star] Thank you. Questions? @fa[star]
 
----?include=template/md/wrap-up/PITCHME.md
+@ul(false)
+
+@fa[laptop]: [scottstorey.co.uk](https://www.scottstorey.co.uk)
+@fa[twitter]: [@scottstorey](https://www.scottstorey.co.uk)
+@fa[github]: [sjstore2](https://github.com/sjstore)
+@fa[envelope]: [me@scottstorey.co.uk](mailto:me@scottstorey.co.uk)
+
+@ulend
