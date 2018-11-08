@@ -49,9 +49,8 @@ By a show of hands how do you identify:
 ---
 ### Historically...
 @ul[]
-- Security aligns most closely with ops
+- Security aligned most closely with ops
 - Security has never had a settled place in an organisation
-- Seen as the "Work Prevention Unit"
 - Acted as a backstop to prevent "bad" work being released
 - People tried to avoid security (and could!)
 @ulend
@@ -60,13 +59,29 @@ By a show of hands how do you identify:
 ### ...today
 @ul[]
 - You can't avoid security
-- This has forced interaction
+- Interaction has been forced
+- Lack of understanding and communication on both sides
+- Security requirements are becoming more engrained in law
+- Security abusing its position
 
 ---?color=#00297c
 
 ### DevSecOps to the rescue!
 
 ---
+### Security needs to change
+@ul[]
+- Need to work with, not against
+- Need to fit how dev and ops work 
+- Need to be involved throughout the lifecycle
+- Need to be accessible
+
+---
+### Barriers to adoption
+@ul[]
+- Lack of skilled security professionals
+- Lack of dev and ops with security knowledge
+- Change is hard! 
 
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
