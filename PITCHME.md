@@ -1,4 +1,4 @@
----?color=#c02425
+---?
 @title[Introduction]
 
 @snap[west headline text-white span-70]
@@ -30,11 +30,11 @@ By a show of hands how do you identify:
 - Anything else?
 @ulend
 
----?image=template/img/WallOfConfusion1.PNG&size=contain
+---?image=template/img/wallofconfusion1.png&size=contain
 @title[Wall of Confusion 1.0]
 
 
----?image=template/img/WallOfConfusion2.PNG&size=contain
+---?image=template/img/wallofconfusion2.png&size=contain
 @title[Wall of Confusion 2.0]
 
 
