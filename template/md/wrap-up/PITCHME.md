@@ -1,5 +1,3 @@
-@title[Wrap-Up]
-
 ---
 @title[Questions?]
 
@@ -9,7 +7,7 @@
 ---
 @title[Get In Touch]
 
-@snap[west contact-links]
+@snap[midpoint contact-links]
 @css[contact-name](Scott Storey)<br>
 <a href="https://twitter.com/scottstorey">
 @fa[twitter-square pad-right-icon]@css[twitter-handle](@scottstorey)
