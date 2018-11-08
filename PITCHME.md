@@ -63,6 +63,7 @@ By a show of hands how do you identify:
 - Lack of understanding and communication
 - Security requirements are  more engrained in law
 - Security abusing its position
+@ulend
 
 ---?color=#00297c
 
@@ -75,6 +76,7 @@ By a show of hands how do you identify:
 - Need to fit how dev and ops work 
 - Need to be involved throughout the lifecycle
 - Need to be accessible
+@ulend
 
 ---
 ### Barriers to adoption
@@ -82,6 +84,47 @@ By a show of hands how do you identify:
 - Lack of skilled security professionals
 - Lack of dev and ops with security knowledge
 - Change is hard! 
+@ulend
+
+---?color=#00297c
+
+### Practical steps forward
+
+---
+### Questions to ask throughout
+@ul[squares]
+- Is it secure?
+- How do you know it's secure?
+- Is it more or less secure than previously?
+- Would you be happy using it?
+@ulend
+
+---
+### Security need to provide requirements up front
+@ul[squares]
+- Configuration standards
+- Coding standards
+- Regulatory standards
+- Ideally in a format that isn't a 300 page document!
+@ulend
+
+---
+### Threat Modelling
+![Microsoft Threat Modelling Tool](assets/img/mtmt.png)
+
+---
+@ul[squares]
+- Anybody can pick it up
+- Template threat models out the box
+- Good collaboration opportunity
+- Auto-generate threats
+- As capability matures, introduce custom threats
+@ulend
+
+---
+### DevSecOps Studio
+![DevSecOps Studio](https://github.com/teacheraio/DevSecOps-Studio/blob/master/images/devsecops-tools.png)
+
 
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
