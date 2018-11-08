@@ -88,7 +88,7 @@ By a show of hands how do you identify:
 
 ---?color=#00297c
 
-### Practical steps forward
+### Moving forward in your organisation
 
 ---
 ### Questions to ask throughout
@@ -100,12 +100,13 @@ By a show of hands how do you identify:
 @ulend
 
 ---
-### Security need to provide requirements up front
+### Security need to provide requirements
 @ul[squares]
 - Configuration standards
 - Coding standards
 - Regulatory standards
 - Ideally in a format that isn't a 300 page document!
+- CIS Benchmarks (and linked tooling) can solve this.
 @ulend
 
 ---
@@ -123,9 +124,24 @@ By a show of hands how do you identify:
 @ulend
 
 ---
+### Scan as part of builds, not just on deploy
+@ul[squares]
+- Static Analysis
+- Dynamic Analysis
+- Vulnerability Scanning
+@ulend
+
+---?color=#00297c
+### DevSecOps Reference Architecture
+![Reference Architecture](/assets/img/referencearchitecture.png)
+
+---?color=#00297c
+
+### Have a play!
+
+---
 ### DevSecOps Studio
 ![DevSecOps Studio](https://raw.githubusercontent.com/teacheraio/DevSecOps-Studio/master/images/devsecops-tools.png)
-
 
 ---
 ### @fa[star] Thank you. Questions? @fa[star]
