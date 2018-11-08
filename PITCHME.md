@@ -26,6 +26,10 @@ By a show of hands how do you identify:
 - Anything else?
 @ulend
 
+---?color=#f4b942
+
+### Reminder of the problem devops should resolve 
+
 ---
 ### Wall of Confusion 1.0
 ![Wall of Confusion 1.0](template/img/wallofconfusion1.png)
