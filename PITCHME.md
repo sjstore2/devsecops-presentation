@@ -13,7 +13,6 @@
 Who are you?
 @snapend
 
-@snap[west]
 By a show of hands how do you identify:
 @ul[]
 - Developer?
@@ -26,13 +25,11 @@ By a show of hands how do you identify:
 @ulend
 
 ---
-@title[Wall of Confusion 1.0]
-
+### Wall of Confusion 1.0
 ![Wall of Confusion 1.0](template/img/wallofconfusion1.png)
 
 ---
-@title[Wall of Confusion 2.0]
-
+### Wall of Confusion 2.0
 ![Wall of Confusion 2.0](template/img/wallofconfusion2.png)
 
 

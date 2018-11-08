@@ -1,8 +1,6 @@
 ---
-@title[Questions?]
-
-@snap[midpoint span-50]
-![QUESTIONS-4](template/img/questions-4.png)
+@snap[midpoint]
+## Questions?
 @snapend
 ---
 @title[Get In Touch]
