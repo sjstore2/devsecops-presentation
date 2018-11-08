@@ -1,7 +1,5 @@
 ---
-@snap[midpoint]
-## Questions?
-@snapend
+### Questions?
 ---
 @title[Get In Touch]
 
