@@ -9,7 +9,7 @@ DevSecOps
 Scott Storey
 @snapend
 
----?include-template/md/about/PITCHME.md
+---?include=template/md/about/PITCHME.md
 
 
 
